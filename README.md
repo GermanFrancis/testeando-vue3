@@ -1,6 +1,6 @@
 # primer_vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Primer vistazo a vue.js 
 
 ## Recommended IDE Setup
 
